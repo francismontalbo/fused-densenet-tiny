@@ -2,6 +2,7 @@
 <p> Author: Francis Jesmar P. Montalbo </p>
 <p> Affiliation: Batangas State University </p>
 <p> Email: francismontalbo@ieee.org </p>
+<p><a href="https://francismontalbo.github.io">Personal Webpage</p> 
 
 # Dataset: 
 <p><a href="https://data.mendeley.com/datasets/9xkhgts2s6/1">Curated Dataset for COVID-19 Posterior-Anterior Chest Radiography Images (X-Rays).</a></p>
