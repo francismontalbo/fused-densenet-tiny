@@ -18,7 +18,21 @@
 # How to use:
 ***:heavy_exclamation_mark:If training the model, the dependencies included a `tensorflow-gpu`. You may change the `tensorflow-gpu` to `tensorflow` if no GPU is to be used. However, the results from the paper were produced using a GPU (GTX 1070)***
 
-You may clone using git or download the repository and extract the files manually:
+Dependencies included in the `requirements.txt`: 
+- jupyter==1.0.0
+- keras==2.2.5
+- matplotlib
+- numpy==1.16.2
+- opencv-python==4.4.0.42
+- pandas==0.25.3
+- Pillow==7.2.0
+- scikit-learn
+- scikit-image
+- scikit-plot
+- scipy
+- tensorflow-gpu==1.14.0
+
+***:heavy_exclamation_mark: START HERE*** You may clone using git or download the repository and extract the files manually:
 - Once cloned, CD into the folder and enter `pip install -r requirements.txt`. 
 - After installation of the dependecies, there are two options to evaluate or use the model.
 
