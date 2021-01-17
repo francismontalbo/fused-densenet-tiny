@@ -6,6 +6,11 @@
   
 ***:heavy_exclamation_mark:This GitHub repository serves as a support for a submitted article.*** 
 
+# Graphical Abstract
+
+<b>Made with <a target=_blank href="https://draw.io">draw.io</a></b>
+<img src="/graphics/Montalbo_graphical_abstract_covid19.jpg" alt="Fused-DenseNet-Tiny" width="1000">
+
 # Dataset: 
 <p><a href="https://data.mendeley.com/datasets/9xkhgts2s6/1">Curated Dataset for COVID-19 Posterior-Anterior Chest Radiography Images (X-Rays).</a></p>
 <h3>Citation</h3>
