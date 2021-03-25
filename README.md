@@ -46,7 +46,7 @@ Dependencies included in the `requirements.txt`:
 - Clone this repository or download as zip.
 - Install the requirements on a newly created environment to prevent issues with other existing ones.
 - Directly open the `model_evaluation.ipynb` and proceed with the evaluation. Then open the `model_tester.ipynb` to test it and you are done.
-**The weight size of the model is only 10.3MB 😄 named as `fused_densenet_tiny.h5` inside the `weights/` folder. **
+**The weight size of the model is only 10.3MB 😄 named as `fused_densenet_tiny.h5` inside the `weights/` folder.**
 
 **Second (difficult):**
 - Make sure to download the <a href="https://drive.google.com/drive/folders/1WVKRTS5Wg8FdL7GCKwebIUz9jXnKx9nH?usp=sharing">PREPARED dataset</a> and extract it to a folder within the `fused-densenet-tiny/` like `fused-densenet-tiny/dataset/`
