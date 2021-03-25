@@ -5,6 +5,7 @@
 <p><a href="https://francismontalbo.github.io">Personal Webpage</a></p> 
   
 ***:heavy_exclamation_mark:This GitHub repository serves as a support for a submitted article in Biomedical Signal Processing and Control (BSPC) ISSN: 1746-8094.*** 
+***This is also a support for a MethodsX submission with an ISSN of 2215-0161. *** 
 
 # Graphical Abstract
 
@@ -35,7 +36,7 @@ Dependencies included in the `requirements.txt`:
 - scikit-image
 - scikit-plot
 - scipy
-- tensorflow-gpu==1.14.0
+- tensorflow-gpu==1.14.0 (Note: This is optional and can train even with just a CPU or tensorflow non-gpu variant)
 
 ***:heavy_exclamation_mark: START HERE*** You may clone using git or download the repository and extract the files manually:
 - Once cloned, CD into the folder and enter `pip install -r requirements.txt`. 
