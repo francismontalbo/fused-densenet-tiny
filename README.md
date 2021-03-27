@@ -4,8 +4,9 @@
 <p> Email: francismontalbo@ieee.org </p>
 <p><a href="https://francismontalbo.github.io">Personal Webpage</a></p> 
   
-***:heavy_exclamation_mark:This GitHub repository serves as a support for a submitted article in Biomedical Signal Processing and Control (BSPC) ISSN: 1746-8094.*** 
-***This is also a support for a MethodsX submission with an ISSN of 2215-0161. *** 
+***:heavy_exclamation_mark:This GitHub repository serves as a support for an ACCEPTED article in Biomedical Signal Processing and Control (BSPC) ISSN: 1746-8094.*** 
+***This is also a support for another article in MethodsX submission with an ISSN of 2215-0161. *** 
+***This repository will be maintained and improved after all reviews are done for the use of the public. A video utorial will also be released soon for a faster and easier implementation***
 
 # Graphical Abstract
 
