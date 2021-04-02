@@ -4,7 +4,24 @@
 <p> Email: francismontalbo@ieee.org </p>
 <p><a href="https://francismontalbo.github.io">Personal Webpage</a></p> 
   
-***:heavy_exclamation_mark:This GitHub repository serves as a support for an ACCEPTED article in Biomedical Signal Processing and Control (BSPC) ISSN: 1746-8094.*** 
+***:heavy_exclamation_mark:This GitHub repository serves as a support for a published article in Biomedical Signal Processing and Control (BSPC) ISSN: 1746-8094.*** 
+https://www.sciencedirect.com/science/article/abs/pii/S1746809421001804
+
+<p>CITATION</p>
+Francis Jesmar P. Montalbo,
+Diagnosing Covid-19 Chest X-Rays with a Lightweight Truncated DenseNet with Partial Layer Freezing and Feature Fusion,
+Biomedical Signal Processing and Control,
+2021,
+102583,
+ISSN 1746-8094,
+https://doi.org/10.1016/j.bspc.2021.102583.
+(https://www.sciencedirect.com/science/article/pii/S1746809421001804)
+<strong>Abstract</strong>: Due to the unforeseen turn of events, our world has undergone another global pandemic from a highly contagious novel coronavirus named COVID-19. The novel virus inflames the lungs similarly to Pneumonia, making it challenging to diagnose. Currently, the common standard to diagnose the virus's presence from an individual is using a molecular real-time Reverse-Transcription Polymerase Chain Reaction (rRT-PCR) test from fluids acquired through nasal swabs. Such a test is difficult to acquire in most underdeveloped countries with a few experts that can perform the test. As a substitute, the widely available Chest X-Ray (CXR) became an alternative to rule out the virus. However, such a method does not come easy as the virus still possesses unknown characteristics that even experienced radiologists and other medical experts find difficult to diagnose through CXRs. Several studies have recently used computer-aided methods to automate and improve such diagnosis of CXRs through Artificial Intelligence (AI) based on computer vision and Deep Convolutional Neural Networks (DCNN), which some require heavy processing costs and other tedious methods to produce. Therefore, this work proposed the Fused-DenseNet-Tiny, a lightweight DCNN model based on a densely connected neural network (DenseNet) truncated and concatenated. The model trained to learn CXR features based on transfer learning, partial layer freezing, and feature fusion. Upon evaluation, the proposed model achieved a remarkable 97.99% accuracy, with only 1.2 million parameters and a shorter end-to-end structure. It has also shown better performance than some existing studies and other massive state-of-the-art models that diagnosed COVID-19 from CXRs.
+
+Keywords: chest x-rays; computer-aided diagnosis; covid-19; deep learning; densely connected neural networks
+
+
+
 ***This is also a support for another article in MethodsX submission with an ISSN of 2215-0161. *** 
 ***This repository will be maintained and improved after all reviews are done for the use of the public. A video utorial will also be released soon for a faster and easier implementation***
 
