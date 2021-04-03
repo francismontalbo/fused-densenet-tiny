@@ -90,3 +90,15 @@ Dependencies included in the `requirements.txt`:
     <td><strong>95.26%</strong></td>
   </tr>
 </table>
+
+## CITE ME
+@article{MONTALBO2021102583,
+title = {Diagnosing Covid-19 Chest X-Rays with a Lightweight Truncated DenseNet with Partial Layer Freezing and Feature Fusion},
+journal = {Biomedical Signal Processing and Control},
+pages = {102583},
+year = {2021},
+issn = {1746-8094},
+doi = {https://doi.org/10.1016/j.bspc.2021.102583},
+url = {https://www.sciencedirect.com/science/article/pii/S1746809421001804},
+author = {Francis Jesmar P. Montalbo},
+keywords = {chest x-rays, computer-aided diagnosis, covid-19, deep learning, densely connected neural networks}
