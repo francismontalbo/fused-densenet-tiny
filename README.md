@@ -3,7 +3,7 @@
 <p> Affiliation: Batangas State University </p>
 <p> Email: francismontalbo@ieee.org </p>
 <p><a href="https://francismontalbo.github.io">Personal Webpage</a></p>
-### PLEASE CONTACT ME IF YOU ARE HAVING TROUBLE, I CAN OFFER ASSITANCE ### 
+***PLEASE CONTACT ME IF YOU ARE HAVING TROUBLE, I CAN OFFER ASSITANCE *** 
   
 ***:heavy_exclamation_mark:This GitHub repository serves as a support for a published article in Biomedical Signal Processing and Control (BSPC) ISSN: 1746-8094.*** 
 https://www.sciencedirect.com/science/article/abs/pii/S1746809421001804
