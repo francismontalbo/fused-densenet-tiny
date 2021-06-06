@@ -114,3 +114,14 @@ doi = {https://doi.org/10.1016/j.bspc.2021.102583},
 url = {https://www.sciencedirect.com/science/article/pii/S1746809421001804},
 author = {Francis Jesmar P. Montalbo},
 keywords = {chest x-rays, computer-aided diagnosis, covid-19, deep learning, densely connected neural networks}
+
+@article{MONTALBO2021101408,
+title = {Truncating a Densely Connected Convolutional Neural Network with Partial Layer Freezing and Feature Fusion for Diagnosing COVID-19 from Chest X-Rays},
+journal = {MethodsX},
+pages = {101408},
+year = {2021},
+issn = {2215-0161},
+doi = {https://doi.org/10.1016/j.mex.2021.101408},
+url = {https://www.sciencedirect.com/science/article/pii/S2215016121002016},
+author = {Francis Jesmar P. Montalbo},
+keywords = {Deep Convolutional Neural Networks, COVID-19, Feature Fusion, Medical Image Diagnosis, Image Classification}
